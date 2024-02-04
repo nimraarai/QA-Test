@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.saucedemo.com/",
+    "dashboardUrl":"https://www.saucedemo.com/inventory.html",
+    "pageLoadTimeout": 20000
+
+}
